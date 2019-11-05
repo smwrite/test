@@ -1,2 +1,2 @@
-let a = 10;
-document.write(a);
+let b = 10;
+document.write(b);
